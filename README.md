@@ -10,6 +10,7 @@ Para simplificar o seu aprendizado, praticaremos apenas a lógica de programaç�
     - Exemplo, para rodar o arquivo do Desafio 1, rode no terminal `dart run desafio1.dart`
 
 ## Desafios
+### Semana 1
 ##### Desafio 1
 Crie uma função que inicialize dois valores inteiros (A e B). Como resultado, imprima qual é o maior valor.
 
@@ -29,7 +30,7 @@ Faça uma função que inicialize um número inteiro qualquer. Como resultado, i
 Faça uma função que inicialize o valor do salário mínimo e o valor do salário de um usuário em duas variáveis diferentes. Calcule quantos salários mínimos esse usuário ganha e imprima o resultado. (Base para o salário mínimo R$ 1.412,00).
 
 ##### Desafio 7
-Crie uma função que inicialize três valores inteiros diferentes. Como resultado, mostre na tela os valores em ordem **crescente**.
+Crie uma função que inicialize três valores inteiros diferentes. Como resultado, imprima os valores em ordem **crescente**.
 Exemplo: entrada = `[5, 1, 9]` | saída = `[1, 5, 9]`
 
 ##### Desafio 8
@@ -55,3 +56,29 @@ Entrada: `5`
 9 x 5 = 45
 10 x 5 = 50
 ```
+
+### Semana 2
+##### Desafio 11
+Crie uma função que inicialize três valores inteiros diferentes. Como resultado, imprima os valores em ordem **decrescente**.
+Exemplo: entrada = `[5, 1, 9]` | saída = `[9, 5, 1]`
+
+##### Desafio 12
+Crie uma função que inicialize um número inteiro. Como resultado, imprima o fatorial desse número.
+[O que é fatorial?](https://mundoeducacao.uol.com.br/matematica/fatorial.htm#:~:text=O%20fatorial%20de%20um%20n%C3%BAmero%20%C3%A9%20o%20produto%20dele%20pelos,exclama%C3%A7%C3%A3o%2C%20ou%20seja%2C%20n!)
+
+##### Desafio 13
+Crie uma função que inicialize uma lista com números inteiros. Como resultado, imprima uma lista com o quadrado dos números da lista original.
+
+##### Desafio 14
+
+##### Desafio 15
+
+##### Desafio 16
+
+##### Desafio 17
+
+##### Desafio 18
+
+##### Desafio 19
+
+##### Desafio 20
