@@ -1,5 +1,6 @@
 void main() {
-  // Escreva o código aqui...
+  // Crie uma função que inicialize o nome e a idade de uma pessoa. Como resultado, imprima o nome da pessoa e se ela é maior ou menor de idade. Exemplo: Maria é menor de idade.
+  
   
   String nome = ('daniela');
   int idade = 27;
