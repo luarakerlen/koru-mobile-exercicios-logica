@@ -9,6 +9,12 @@
 //   print(i);
 // }
 
+// olha pra condição
+// se a condição for satisfeita
+// executa
+// incrementa / decrementa
+// repete
+
 // Como acessar posição específica
 // print(notas[0]);
 
@@ -16,6 +22,25 @@
 // print(notas.length);
 
 void main() {
-  List<double> notas = [5, 10, 7, 6];
+  // média
+  // somar tudo / quantidade de elementos
+
+  List<double> notas = [5, 10, 7, 6, 3];
   double soma = 0;
+
+  // soma = soma + notas[0];
+  // soma = soma + notas[1];
+  // soma = soma + notas[2];
+  // soma = soma + notas[3];
+
+  for(var i = 0; i < notas.length; i++) {
+    soma = soma + notas[i];
+    print('soma parcial: $soma');
+  }
+
+  print('soma total: $soma');
+
+  int qtdNotas = notas.length;
+  double media = soma / qtdNotas;
+  print('Média: $media');
 }
